@@ -1,2 +1,0 @@
-# MIDTERM-resume
-resume
